@@ -3,7 +3,7 @@
 
 
 ### 🚀 Live Demo
-(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyberattackdetection-crrnv2f73qro723nqeamas.streamlit.app/)
+https://cyberattackdetection-crrnv2f73qro723nqeamas.streamlit.app/
 
 
 
