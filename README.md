@@ -9,7 +9,7 @@ https://cyberattackdetection-crrnv2f73qro723nqeamas.streamlit.app/
 
 ## 📖 About
 
-A Machine Learning-based **Network Intrusion Detection System (NIDS)** that classifies network traffic as **Normal** or **Attack** in real time.
+A Machine Learning-based **Cyber Attack Detection System (CADS)** that classifies network traffic as **Normal** or **Attack** in real time.
 
 Built using the **UNSW-NB15 dataset** with a **Voting Ensemble** of Random Forest, XGBoost, and Logistic Regression — achieving **98.89% accuracy**.
 
@@ -70,7 +70,6 @@ Built using the **UNSW-NB15 dataset** with a **Voting Ensemble** of Random Fores
 - **Frontend:** Streamlit
 - **ML Models:** Scikit-learn, XGBoost
 - **Data Processing:** Pandas, NumPy
-- **Auth:** SHA-256 password hashing
 - **Deployment:** Streamlit Cloud
 
 ---
